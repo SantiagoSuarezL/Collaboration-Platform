@@ -2,6 +2,8 @@
 
 A modern, real-time collaboration platform designed to help teams manage projects efficiently using Kanban boards. It features instant updates, drag-and-drop task management, role-based access control, and live user presence tracking.
 
+![App Preview](https://i.imgur.com/nkmdZSL.png)
+
 ## 🚀 Key Features
 
 *   **Real-Time Live Updates**: All changes (task moves, edits, creation) are instantly synchronized across all connected clients using WebSockets.
