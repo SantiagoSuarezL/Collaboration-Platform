@@ -1,0 +1,16 @@
+# Core Framework
+Django==6.0.2
+djangorestframework==3.16.1
+djangorestframework-simplejwt==5.5.1
+django-cors-headers==4.9.0
+
+# Real-time & WebSockets (ASGI)
+channels==4.3.2
+daphne==4.2.1
+asgiref==3.11.1
+Twisted==25.5.0
+
+# Utilities
+python-dotenv==1.0.0
+sqlparse==0.5.5
+PyJWT==2.11.0
